@@ -40,7 +40,7 @@ Follow these steps to experience the Password Vault:
 
 2. **Install Dependencies:**
    - Make sure you have Python and pip installed on your system.
-   - Navigate to the project directpry and install required dependencies using:
+   - Navigate to the project directory and install required dependencies using:
      ```bash
      pip install -r requirements.txt
      ```
