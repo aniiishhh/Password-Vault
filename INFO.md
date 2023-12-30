@@ -7,6 +7,7 @@ Welcome to the Password Vault, a robust command-line application designed for se
 1. **Master Email and Password:**
    - On the first run, users are prompted to input a MASTER email ID and password.
    - This MASTER email serves as the primary channel for automated recovery and account verification emails.
+   - **NOTE: Some devices may restrict Python from accessing email IDs using regular passwords. If you encounter issues, consider generating an app password for your email ID. Learn         more about creating app passwords [here](<https://support.google.com/accounts/answer/185833?hl=en#zippy=>).**
 
 ## Master Menu
 
