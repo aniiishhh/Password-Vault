@@ -50,7 +50,7 @@ Follow these steps to experience the Password Vault:
      ```bash
      python .
      ```
-     **For additional information on running the project, refer to: [More Information](INFO.md)**
+     **For additional information about the project, refer to: [More Information](INFO.md)**
 
 4. **Follow On-Screen Prompts:**
    - The application will guide you through account creation and demonstrate the available features.
@@ -60,3 +60,5 @@ Follow these steps to experience the Password Vault:
    - We value your feedback! Feel free to provide suggestions or report issues on the GitHub repository.
 
 **Note:** This project is intended for personal use and as a showcase of skills for my portfolio. It is not designed as a formal, industry-level application with rigorous security measures. While efforts have been made to implement best practices, the safety of your data is not guaranteed. Use this application responsibly and consider more robust solutions for handling sensitive information in professional settings.
+
+[More Information](INFO.md)
