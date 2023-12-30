@@ -50,6 +50,7 @@ Follow these steps to experience the Password Vault:
      ```bash
      python .
      ```
+     **For additional information on running the project, refer to: [More Information](INFO.md)**
 
 4. **Follow On-Screen Prompts:**
    - The application will guide you through account creation and demonstrate the available features.
