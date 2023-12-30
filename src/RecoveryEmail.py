@@ -13,11 +13,7 @@ cursor = conn.cursor()
 PORT = 587
 EMAIL_SERVER = "smtp.gmail.com"
 
-# sender_email = "noreply.passvault1@gmail.com"
-# password_email = "mdybfcplkymtwlyb"
-
 sender_email, password_email = read_config()
-
 
 def send_recovery_email(receiver_email, user_id):
     new_passphrase = generate_random_string(25)
